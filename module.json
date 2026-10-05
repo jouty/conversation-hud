@@ -37,6 +37,7 @@
       {
         "id": "lib-dfreds-ui-extender",
         "type": "module",
+        "manifest": "https://github.com/DFreds/lib-dfreds-ui-extender/releases/latest/download/module.json",
         "compatibility": {}
       }
     ]
